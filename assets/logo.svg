@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1578"
+   height="1578"
+   viewBox="0 0 1578 1578"
+   fill="none"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 823.364,756.361 c 25.758,120.722 133.018,211.262 261.426,211.262 V 872.77 h -0.12 c -75.62,0 -139.881,-48.677 -163.145,-116.409 z m 0,-112.099 C 849.122,523.54 956.382,433 1084.79,433 v 94.852 h -0.12 c -75.62,0 -139.881,48.678 -163.145,116.41 z"
+     fill="#ffffff"
+     id="path2" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M 755.424,756.361 C 729.666,877.083 622.406,967.623 493.998,967.623 V 872.77 c 75.625,0 139.882,-48.677 163.146,-116.409 z m 0,-112.099 C 729.666,523.54 622.406,433 493.998,433 v 94.852 c 75.625,10e-4 139.882,48.678 163.146,116.41 z"
+     fill="#ffffff"
+     id="path4" />
+  <rect
+     x="571.60602"
+     y="648.57397"
+     width="435.45901"
+     height="103.475"
+     rx="51.737701"
+     fill="#ffffff"
+     id="rect6" />
+  <rect
+     x="606.09698"
+     y="691.68903"
+     width="64.672096"
+     height="17.245899"
+     fill="#ff0060"
+     id="rect8" />
+  <rect
+     x="1058.2482"
+     y="-108.81737"
+     width="64.672096"
+     height="17.245899"
+     transform="rotate(45)"
+     fill="#f6fa70"
+     id="rect10" />
+  <rect
+     x="667.97504"
+     y="-647.05701"
+     width="64.672096"
+     height="17.245899"
+     transform="rotate(90)"
+     fill="#ff0060"
+     id="rect12" />
+  <rect
+     x="709.57202"
+     y="691.68903"
+     width="64.672096"
+     height="17.245899"
+     fill="#7799ff"
+     id="rect14" />
+  <rect
+     x="-132.53023"
+     y="-1099.2074"
+     width="64.672096"
+     height="17.245899"
+     transform="rotate(135)"
+     fill="#f6fa70"
+     id="rect16" />
+  <rect
+     x="907.89899"
+     y="691.68903"
+     width="60.360699"
+     height="17.245899"
+     fill="#00dfa2"
+     id="rect18" />
+  <circle
+     cx="938.08002"
+     cy="678.75403"
+     r="8.6229496"
+     fill="#00dfa2"
+     id="circle20" />
+  <circle
+     cx="938.08002"
+     cy="721.86902"
+     r="8.6229496"
+     fill="#00dfa2"
+     id="circle22" />
+</svg>
